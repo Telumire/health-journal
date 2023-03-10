@@ -6,13 +6,13 @@
   <link>https://health-journal.tiddlyhost.com</link>
   <description>Taking care of yourself one day at a time</description>
   <language>en-EN</language>
-  <lastBuildDate>Fri, 10 Mar 2023 09:43:06 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 10 Mar 2023 09:48:13 GMT</lastBuildDate>
 	<item>
       <title>Update 10/03</title>
       <description></description>
       <category>article</category>
-      <content:encoded><![CDATA[<p><ul><li>Added RSS feed</li><li>Added <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://health-journal.tiddlyhost.com#Days%20missing%20in%20the%20last%207%20days%20this%20year">a tiddler listing of missing days</a></li><li>Added a search in the header</li></ul><dl><dt>Planned</dt></dl><ul><li>Enable Cloning/Download</li><li>Improve weight loss tracking</li></ul></p>]]></content:encoded>
-	  <pubDate>Fri, 10 Mar 2023 09:43:06 GMT</pubDate>
+      <content:encoded><![CDATA[<p><ul><li>Added RSS feed</li><li>Added <a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://health-journal.tiddlyhost.com#Days%20missing%20in%20the%20last%207%20days%20this%20year">a tiddler listing missing days</a></li><li>Added a search in the header</li></ul><dl><dt>Planned</dt></dl><ul><li>Enable Cloning/Download</li><li>Improve weight loss tracking</li></ul><hr><p>Send your suggestions here: <a class="tc-tiddlylink-external" href="https://github.com/Telumire/health-journal/issues" rel="noopener noreferrer" target="_blank">https://github.com/Telumire/health-journal/issues</a></p></p>]]></content:encoded>
+	  <pubDate>Fri, 10 Mar 2023 09:48:13 GMT</pubDate>
       <link>https://health-journal.tiddlyhost.com#Update%2010%2F03</link>
       <guid isPermaLink='true'>https://health-journal.tiddlyhost.com#Update%2010%2F03</guid>
    </item>
