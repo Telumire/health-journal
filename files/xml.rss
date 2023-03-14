@@ -6,13 +6,21 @@
   <link>https://health-journal.tiddlyhost.com</link>
   <description>Taking care of yourself one day at a time</description>
   <language>en-EN</language>
-  <lastBuildDate>Fri, 10 Mar 2023 14:05:21 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 14 Mar 2023 08:10:31 GMT</lastBuildDate>
 	<item>
+      <title>Added read only mode</title>
+      <description></description>
+      <category>article</category>
+      <content:encoded><![CDATA[<p>—Send your suggestions here: <a class="tc-tiddlylink-external" href="https://github.com/Telumire/health-journal/issues" rel="noopener noreferrer" target="_blank">https://github.com/Telumire/health-journal/issues</a></p>]]></content:encoded>
+	  <pubDate>Tue, 14 Mar 2023 08:10:31 GMT</pubDate>
+      <link>https://health-journal.tiddlyhost.com#Added%20read%20only%20mode</link>
+      <guid isPermaLink='true'>https://health-journal.tiddlyhost.com#Added%20read%20only%20mode</guid>
+   </item><item>
       <title>Added scroll animation</title>
       <description></description>
       <category>article</category>
-      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://health-journal.tiddlyhost.com#%24%3A%2Fplugins%2Ftelumire%2Fscroll-direction.js">$:/plugins/telumire/scroll-direction.js</a></p><p>Only work with mousewheel and seems to be buggy.</p>—Send your suggestions here: <a class="tc-tiddlylink-external" href="https://github.com/Telumire/health-journal/issues" rel="noopener noreferrer" target="_blank">https://github.com/Telumire/health-journal/issues</a></p>]]></content:encoded>
-	  <pubDate>Fri, 10 Mar 2023 14:05:21 GMT</pubDate>
+      <content:encoded><![CDATA[<p><p><a class="tc-tiddlylink tc-tiddlylink-resolves" href="https://health-journal.tiddlyhost.com#%24%3A%2Fplugins%2Ftelumire%2Fscroll-direction.js">$:/plugins/telumire/scroll-direction.js</a></p>—Send your suggestions here: <a class="tc-tiddlylink-external" href="https://github.com/Telumire/health-journal/issues" rel="noopener noreferrer" target="_blank">https://github.com/Telumire/health-journal/issues</a></p>]]></content:encoded>
+	  <pubDate>Sun, 12 Mar 2023 03:42:25 GMT</pubDate>
       <link>https://health-journal.tiddlyhost.com#Added%20scroll%20animation</link>
       <guid isPermaLink='true'>https://health-journal.tiddlyhost.com#Added%20scroll%20animation</guid>
    </item><item>
