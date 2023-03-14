@@ -5,25 +5,28 @@ https://www.telumire.be/health-journal/index.html
 
 This wiki is a work in progress. My plan is to create a tool that will help to improve the mental and physical well-being of its users.
 
-#Current features
+# Features
 
-* Log daily data for various metrics
-* Calculators for weightloss
-* Calculator for optimal sleep time
-* RSS feed to follow the updates of the tool
-* Github comments
-* External js for smaller saves
+- [x] Log daily data for various metrics
+- [x] Calculators for weightloss
+- [x] Calculator for optimal sleep time
+- [x] RSS feed to follow the updates of the tool
+- [x] Github comments
+- [x] External js for smaller saves
 
-#Planned
+# Planned
 
-* Greatly improve the UI
-* Use the local storage to store the data, to be able to use the wiki without downloading it/special tools (or maybe save the data in url ?)
-* Meal analyser
-* Workout analyser
-* Recipe planner
-* Workout planner
-* Improve the writing experience for using this as a personnal blog
+- [ ] Greatly improve the UI
+- [ ] Use the local storage to store the data, to be able to use the wiki without downloading it/special tools (or maybe save the data in url ?)
+- [ ] Meal analyser
+- [ ] Workout analyser
+- [ ] Recipe planner
+- [ ] Workout planner
+- [ ] Improve the writing experience for using this as a personnal blog
+- [ ] Create a dedicated theme
+- [ ] Created a dedicated set of plugin
+- [ ] Theme / Plugin library
 
-#Your features
+# Ideas
 
-Want something to be added to the list ? Issues are welcome :)
+Want something to be added to the list ? [Issues](https://github.com/Telumire/health-journal/issues) are welcome :)
