@@ -5,7 +5,7 @@ https://www.telumire.be/health-journal/index.html
 
 This wiki is a work in progress. My plan is to create a tool that will help to improve the mental and physical well-being of its users.
 
-# Features
+# Done
 
 - [x] Log daily data for various metrics
 - [x] Calculators for weightloss
@@ -14,7 +14,11 @@ This wiki is a work in progress. My plan is to create a tool that will help to i
 - [x] Github comments
 - [x] External js for smaller saves
 
-# Planned
+# Doing
+
+- [ ] Cleaning up the tiddlers and creating a first blank wiki to allow testing
+
+# To do
 
 - [ ] Greatly improve the UI
 - [ ] Use the local storage to store the data, to be able to use the wiki without downloading it/special tools (or maybe save the data in url ?)
