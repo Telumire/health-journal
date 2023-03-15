@@ -26,8 +26,8 @@ This wiki is a work in progress. My plan is to create a tool that will help to i
 - [ ] Workout analyser
 - [ ] Recipe planner
 - [ ] Workout planner
-- [ ] Track BP, and other blood investigations results ([similar](https://phrdemo.tiddlyhost.com/))
-- [ ] Habit Tracking 
+- [ ] Track BP, and other blood investigations results ([similar](https://phrdemo.tiddlyhost.com/))  (thanks to arunnbabu81 for the suggestion)
+- [ ] Habit Tracking  (thanks to arunnbabu81 for the suggestion)
 - [ ] Improve the writing experience for using this as a personnal blog
 - [ ] Create a dedicated theme
 - [ ] Created a dedicated set of plugin
