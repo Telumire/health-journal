@@ -26,10 +26,21 @@ This wiki is a work in progress. My plan is to create a tool that will help to i
 - [ ] Workout analyser
 - [ ] Recipe planner
 - [ ] Workout planner
+- [ ] Track BP, and other blood investigations results ([similar](https://phrdemo.tiddlyhost.com/))
+- [ ] Habit Tracking 
 - [ ] Improve the writing experience for using this as a personnal blog
 - [ ] Create a dedicated theme
 - [ ] Created a dedicated set of plugin
 - [ ] Theme / Plugin library
+
+# Inspirations
+
+- [Mark's Nutrition database based on data from USDA](https://nutrition-database.tiddlyhost.com/)
+- [Mark's CarboCommander](https://carbocommander.tiddlyhost.com/)
+- [Recipe plug in by Odin](https://odinjorna.github.io/recipe-plugin/)
+- [phrdemo](https://phrdemo.tiddlyhost.com/)
+- [habito](https://rawgit.com/Guitlle/habito/build/build/habito-docs.html)
+- [everyday.app](https://everyday.app/)
 
 # Ideas
 
