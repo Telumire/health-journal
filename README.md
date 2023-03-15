@@ -10,7 +10,7 @@ This wiki is a work in progress. My plan is to create a tool that will help to i
 - [x] Log daily data for various metrics
 - [x] Calculators for weightloss
 - [x] Calculator for optimal sleep time
-- [x] RSS feed to follow the updates of the tool
+- [x] RSS feed to document updates
 - [x] Github comments
 - [x] External js for smaller saves
 
